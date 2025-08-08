@@ -24,7 +24,7 @@ Il a été créé dans le cadre de mon apprentissage en développement web, et p
 
 Le projet utilise une base de données **MySQL** avec des tables comme :
 
-- `produits` , `client` , `commandes`, `commande_produits
+- `produits` , `client` , `commandes`.
 
 Connexion via fichier `db/connexion.php` avec PDO ou MySQLi.
 
